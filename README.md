@@ -25,7 +25,7 @@ Key insights include:
 
 **Dashboard Preview**
 
-![Dashboard Preview](1_overview.png)
+![Dashboard Preview](1_Overview.png)
 
 🔗 **Interactive Tableau Dashboard:**  
 [https://public.tableau.com/app/profile/dmitry.kuvyrdin/viz/LogisticsOperationsNetwork/Overview?publish=yes](https://public.tableau.com/app/profile/dmitry.kuvyrdin/viz/LogisticsOperationsNetwork/Overview?publish=yes)
